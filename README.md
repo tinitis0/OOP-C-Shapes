@@ -1,2 +1,3 @@
-# OOP-C-Shapes
+# Shapes
+OOP C++
 Drawing shapes with SFML
